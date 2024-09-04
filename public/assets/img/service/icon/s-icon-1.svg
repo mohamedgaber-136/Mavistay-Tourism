@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hull of the boat -->
+  <path d="M10 30 C15 35, 25 35, 30 30 L10 30 Z" fill="#8B4513" />
+  
+  <!-- Mast of the boat -->
+  <rect x="19.5" y="10" width="1" height="20" fill="#8B4513" />
+  
+  <!-- Sail of the boat -->
+  <path d="M20 10 L20 25 L30 17.5 Z" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" />
+  
+  <!-- Water -->
+  <path d="M0 35 C5 30, 15 30, 20 35 C25 40, 35 40, 40 35 L0 35 Z" fill="#00BFFF" />
+</svg>
